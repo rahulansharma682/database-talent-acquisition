@@ -1,0 +1,17 @@
+# Database Talent Acquisition - Python Dependencies
+# Last Updated: 2025
+
+# Web Framework
+streamlit>=1.28.0
+
+# Database Connector
+pymysql>=1.1.0
+
+# Password Hashing
+bcrypt>=4.0.1
+
+# Data Processing
+pandas>=2.0.0
+
+# Optional: For better data visualization
+numpy>=1.24.0
