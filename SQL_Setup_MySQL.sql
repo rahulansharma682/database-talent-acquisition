@@ -1,5 +1,4 @@
 -- Database Setup for Talent Acquisition System
--- Created: 2023
 -- Last Updated: 2025
 
 CREATE DATABASE IF NOT EXISTS Final_Project;
