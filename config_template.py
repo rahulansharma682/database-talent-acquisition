@@ -1,5 +1,5 @@
 """
-Database Configuration Template
+Database Configuration
 Copy this file to 'config.py' and update with your MySQL credentials.
 DO NOT commit config.py to version control!
 """
