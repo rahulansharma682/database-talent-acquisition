@@ -1,24 +1,10 @@
 # Database Talent Acquisition System
 
 **Course**: EN.601.615 - Database Systems
-**Authors**: Shreya Jamsandekar, Rahul Anjani Nandana Sharma Chemitiganti
-**Year**: 2023-2024
 
 A comprehensive Streamlit-based web application for managing and analyzing talent acquisition data. This dashboard enables recruiters and administrators to manage job postings, track candidates, and perform advanced analytics on recruitment data using a MySQL database backend.
 
 This project demonstrates practical application of database design, SQL queries, and web-based data visualization for real-world talent acquisition workflows.
-
-## Table of Contents
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Configuration](#configuration)
-- [Running the Application](#running-the-application)
-- [User Guide](#user-guide)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -237,16 +223,4 @@ This project uses two primary datasets:
 **Import Error**
 - Run `pip install -r requirements.txt`
 - Verify Python version is 3.8+
-
-## Contributing
-
-This project was created in 2023 as a database management demonstration. Contributions for improvements are welcome!
-
-## License
-
-This project is for educational purposes.
-
----
-
-**Last Updated**: November 2025
 
