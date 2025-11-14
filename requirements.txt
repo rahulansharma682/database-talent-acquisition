@@ -13,5 +13,4 @@ bcrypt>=4.0.1
 # Data Processing
 pandas>=2.0.0
 
-# Optional: For better data visualization
 numpy>=1.24.0
