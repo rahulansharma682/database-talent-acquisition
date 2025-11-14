@@ -602,7 +602,7 @@ elif menu == "Get Latest Job Salary Range Updates":
                     audit_log = cursor.fetchall()
                     st.write(audit_log)
                 else:
-                    st.error("Please enter a valid Salary Range.")
+                    st.error("Please enter valid Salary Range.")
         except Exception as e:
             st.error(f"Error: {e}")
         finally:
